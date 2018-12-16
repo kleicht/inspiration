@@ -12,6 +12,6 @@ This project was bootstraped with [gatsbyjs](https://github.com/gatsbyjs/gatsby#
 
 ## Author
 
-| [![twitter/_flexbox](https://gravatar.com/avatar/66ecc55f1bc2e5863eb516ee6f20794e?s=70)](https://twitter.com/_flexbox 'Follow @_flexbox on Twitter') |
+| [![twitter/_flexbox](https://gravatar.com/avatar/66ecc55f1bc2e5863eb516ee6f20794e?s=70)](https://twitter.com/_flexbox 'Follow @_flexbox on Twitter') [![Greenkeeper badge](https://badges.greenkeeper.io/flexbox/webcitation.svg)](https://greenkeeper.io/) |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [David Leuliette](https://davidl.fr/)                                                                                                                |
